@@ -95,7 +95,4 @@ int queue::dequeue_all(void) //function to delete the whole queue
 	}
 }
 
-int queue::display_all(void) //function to display everything in the queue
-{	
-	if (!rear)
-		 return 0;
+
