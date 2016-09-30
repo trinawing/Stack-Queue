@@ -68,10 +68,6 @@ int calculator::divide(double to_divide)
 	return 1;
 }
 
-int calculator::calculate()
-{
-
-}
 
 int calculator::last_operation(void)
 {
