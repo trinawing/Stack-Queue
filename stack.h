@@ -38,3 +38,4 @@ class stack
 		bool display(stk_node * head);
 		//Function to remove everything in the stack
 		int pop_all(void);
+};
