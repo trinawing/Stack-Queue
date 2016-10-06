@@ -18,7 +18,7 @@ class calculator
 	int divide(double to_divide);		//function to add a number for divition
 	
 	int calculate();			//function to perform all requested calculation
-	int last_operation(void);	//tell the client what last calculation was
+	int last_operation(void);	        //tell the client what last calculation was
 	int undo(int number);			//perform undo for number of time
 	int view_history();			//view history of entry
 
